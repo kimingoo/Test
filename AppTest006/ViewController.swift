@@ -6,7 +6,7 @@
 //  Copyright © 2019 min goo. All rights reserved.
 //
 
-import UIKit
+import UIKit // 주석추가
 
 class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource{
     let MaxNum = 10
