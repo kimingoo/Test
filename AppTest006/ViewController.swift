@@ -7,7 +7,7 @@
 //
 
 import UIKit // 주석추가
-
+// 주석추가2
 class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource{
     let MaxNum = 10
     let PickCount = 2
